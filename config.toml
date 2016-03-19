@@ -10,6 +10,7 @@ title = "Elhoucine Azayou"
 pygmentsuseclasses = true
 disqusShortname = "elhoucine" # TODO: optional, comment out to disable Disqus
 pluralizelisttitles = false
+theme = "cocoa"
 
 [permalinks]
 fixed = ":title/"
