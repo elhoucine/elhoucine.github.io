@@ -1,3 +1,32 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://elhoucine.github.io/"
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Elhoucine Azayou"
+title = "Elhoucine Azayou"
+pygmentsuseclasses = true
+disqusShortname = "elhoucine" # TODO: optional, comment out to disable Disqus
+pluralizelisttitles = false
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+[params]
+Author = "Elhoucine Azayou"
+CacheBuster = true
+DateForm = "Jan 2, 2016"
+DateFormFull = "Mon Jan 2 2016 15:04:05 MST"
+Description = "Don't panic, elhoucine Azayou's official virtual mind."
+Email = "houcineparade@gmail.com"
+FaviconFile = "img/leaf.ico"
+# GATracker = "XYZ" # TODO:
+GitHub = "//github.com/elhoucine"
+Initials = "ad" # displayed on single post page; DEPRECATED in v0.3.0
+Lang = "en"
+# LinkedIn = "//linkedin.com/in/you" # TODO:
+Twitter = "//twitter.com/elhoucineaz" # TODO:
+ExtraCssFiles = [ "/css/override.css" ] # relative to public directory
