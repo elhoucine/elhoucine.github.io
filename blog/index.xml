@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Elhoucine Azayou</title>
+    <link>https://elhoucine.github.io/blog/</link>
+    <description>Recent content in Blog on Elhoucine Azayou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 19 Mar 2016 11:32:54 +0000</lastBuildDate>
+    <atom:link href="https://elhoucine.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>helo</title>
+      <link>https://elhoucine.github.io/blog/helo/</link>
+      <pubDate>Sat, 19 Mar 2016 11:32:54 +0000</pubDate>
+      
+      <guid>https://elhoucine.github.io/blog/helo/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+
+&lt;p&gt;This is a 0 blog post, Just in case you visit :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
