@@ -7,4 +7,4 @@ heading = "Hello world!"
 
 Hello World!
 
-This is a 0 blog post, Just in case you visit :)
+This is a dummy blog post, Just in case you visit :)
