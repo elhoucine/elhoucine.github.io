@@ -9,4 +9,4 @@ title = "about"
 
 My name is Elhoucine, JavaScript developer, swimmer and passionate about music, video producing, and more..
 
-(@elhoucineaz)[https://twitter.com/elhoucineaz]
+[@elhoucineaz](https://twitter.com/elhoucineaz)
