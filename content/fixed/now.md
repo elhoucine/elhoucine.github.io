@@ -12,7 +12,7 @@ heading = "What I am doing right now"
 
 >Do it now, sometimes later become never.
 
-Hello, I am in [Casablanca](#), this now page is inspired by the awesome [Derek Sivers](sivers.org/nowff).
+Hello, I am in [Casablanca](#), this now page is inspired by the awesome [Derek Sivers](http://sivers.org/nowff).
 
 Here is a list of the things I am currently busy with:
 
@@ -24,21 +24,21 @@ ___
 
 ## Reading:
 
-I am reading this book: [ESSENTIALISM](#) by Greg McKeown, And discussing it with a [Youness](#), our main goal is analyze, learn, and practice technics to improve productivity and get things done.
+I am reading this book: [ESSENTIALISM] by Greg McKeown, And discussing it with a [Youness](https://twitter.com/YounesMouaddib), our main goal is analyze, learn, and practice technics to improve productivity and get things done.
 
 ## Coding:
 
-Learning React Native, trough this [project](#).
+Learning React Native, trough this [project](https://github.com/elhoucine/PropertyFinder).
 
-Learning Javascript [promises](#).
+Learning Javascript [promises](https://www.udacity.com/course/javascript-promises--ud898).
 
 ## Sport:
 
-[Swimming](#) 3 days a Week.
+Swimming 3 times a Week.
 
 ## Music
 
-Learning Classical Guitar [Asturias](#) by Isaac Albeniz.
+Learning Classical Guitar [Asturias](https://www.youtube.com/watch?v=oEfFbuT3I6A) by Isaac Albeniz.
 
 ## Entrepreneur:
 
@@ -46,7 +46,7 @@ BrainStorming my next project.
 
 ## Work :
 
-Coding @ [Hearken](hearken.io), with awesome guys. Working on a hybrid IOS mobile app using Meteor.
+JavaScripting @ [Hearken](http://hearken.io), with awesome guys.
 
 <!--
 ___
