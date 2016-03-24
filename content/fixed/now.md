@@ -21,32 +21,23 @@ Here is a list of the things I am currently busy with:
 -->
 ___
 
-
-## Reading:
-
 I am reading this book: [ESSENTIALISM] by Greg McKeown, And discussing it with a [Youness](https://twitter.com/YounesMouaddib), our main goal is analyze, learn, and practice technics to improve productivity and get things done.
-
-## Coding:
 
 Learning React Native, trough this [project](https://github.com/elhoucine/PropertyFinder).
 
 Learning Javascript [promises](https://www.udacity.com/course/javascript-promises--ud898).
 
-## Sport:
-
 Swimming 3 times a Week.
 
-## Music
-
-Learning Classical Guitar [Asturias](https://www.youtube.com/watch?v=oEfFbuT3I6A) by Isaac Albeniz.
-
-## Entrepreneur:
+Learning Classical Guitar piece [Asturias](https://www.youtube.com/watch?v=oEfFbuT3I6A) by Isaac Albeniz.
 
 BrainStorming my next project.
 
-## Work :
-
 JavaScripting @ [Hearken](http://hearken.io), with awesome guys.
+
+___
+
+*last update: 22/03/2016*
 
 <!--
 ___
