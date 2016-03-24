@@ -2,7 +2,7 @@
 
 date = "2016-03-22T13:57:14Z"
 
-draft = true
+draft = false
 
 title = "now"
 
