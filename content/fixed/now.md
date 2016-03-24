@@ -27,11 +27,11 @@ Learning React Native, trough this [project](https://github.com/elhoucine/Proper
 
 Learning Javascript [promises](https://www.udacity.com/course/javascript-promises--ud898).
 
-Swimming 3 times a Week.
+<!-- Swimming 3 times a Week. -->
 
-Learning Classical Guitar piece [Asturias](https://www.youtube.com/watch?v=oEfFbuT3I6A) by Isaac Albeniz.
+<!-- Learning Classical Guitar piece [Asturias](https://www.youtube.com/watch?v=oEfFbuT3I6A) by Isaac Albeniz. -->
 
-BrainStorming my next project.
+<!-- BrainStorming my next project. -->
 
 JavaScripting @ [Hearken](http://hearken.io), with awesome guys.
 
