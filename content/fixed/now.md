@@ -12,7 +12,7 @@ heading = "What I am doing right now"
 
 >Do it now, sometimes later become never.
 
-Hello, I am in [Casablanca](#), this now page is inspired by the awesome [Derek Sivers](http://sivers.org/nowff).
+Hello, I am in [Casablanca](#), this now page is inspired by [Derek Sivers idea](http://sivers.org/nowff) Thanks.
 
 Here is a list of the things I am currently busy with:
 
