@@ -25,16 +25,6 @@ I am reading this book: [ESSENTIALISM] by Greg McKeown, And discussing it with a
 
 Learning React Native, trough this [project](https://github.com/elhoucine/PropertyFinder).
 
-Learning Javascript [promises](https://www.udacity.com/course/javascript-promises--ud898).
-
-<!-- Swimming 3 times a Week. -->
-
-<!-- Learning Classical Guitar piece [Asturias](https://www.youtube.com/watch?v=oEfFbuT3I6A) by Isaac Albeniz. -->
-
-<!-- BrainStorming my next project. -->
-
-JavaScripting @ [Hearken](http://hearken.io), with awesome guys.
-
 ___
 
 *last update: 22/03/2016*
