@@ -14,7 +14,7 @@ Hello, I am in Casablanca, here is a some of the things I am currently busy with
 ___
 
 
-I am reading this book: [ESSENTIALISM] by Greg McKeown, And discussing it with a [Youness](https://twitter.com/YounesMouaddib), our main goal is analyze, learn, and practice technics to improve productivity and get things done.
+I am reading [ESSENTIALISM](https://www.youtube.com/watch?v=T9x6D09AKBU) by Greg McKeown, And discussing it with a [Youness](https://twitter.com/YounesMouaddib), our main goal is analyze, learn, and practice technics to improve productivity and get things done.
 
 Learning React Native, trough this [project](https://github.com/elhoucine/PropertyFinder).
 
