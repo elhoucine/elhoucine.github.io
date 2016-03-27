@@ -61,11 +61,11 @@ sudo pip install scrapy
     </item>
     
     <item>
-      <title>helo</title>
-      <link>https://elhoucine.github.io/blog/helo/</link>
+      <title>hello</title>
+      <link>https://elhoucine.github.io/blog/hello/</link>
       <pubDate>Sat, 19 Mar 2016 11:32:54 +0000</pubDate>
       
-      <guid>https://elhoucine.github.io/blog/helo/</guid>
+      <guid>https://elhoucine.github.io/blog/hello/</guid>
       <description>&lt;p&gt;Hello World!&lt;/p&gt;
 
 &lt;p&gt;This is a dummy blog post, Just in case you visit :)&lt;/p&gt;
