@@ -13,7 +13,7 @@ Docker
 
 Hello It's Docker's year 3 :D, celebrations everywhere.
 
-We @ Casablanca, had a Docker session by @SamuelTerbug from OpenShift Solution architecture *#dockerbday*
+We @ Casablanca, had a Docker session by @SamuelTerburg.
 <!-- Docker project & Docker Inc(Business -->
 <!-- dockerCon16 -->
 

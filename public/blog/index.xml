@@ -6,8 +6,35 @@
     <description>Recent content in Blog on Elhoucine Azayou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Mar 2016 11:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Mar 2016 19:19:31 +0100</lastBuildDate>
     <atom:link href="https://elhoucine.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Installing scrapy on El Capitan</title>
+      <link>https://elhoucine.github.io/blog/installing-scrapy-on-el-capitan/</link>
+      <pubDate>Sun, 27 Mar 2016 19:19:31 +0100</pubDate>
+      
+      <guid>https://elhoucine.github.io/blog/installing-scrapy-on-el-capitan/</guid>
+      <description>&lt;p&gt;If you are trying to install Scrapy &lt;em&gt;globally&lt;/em&gt; via pip on El Capitan, you may go through some trouble related to &lt;a href=&#34;https://pypi.python.org/pypi/six&#34;&gt;six&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;OSError: [Errno 1] Operation not permitted: &#39;/var/folders/2r/m12cht2j3332gy6tlqd66xmw0000gn/T/pip-tAYZND-uninstall/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six-1.4.1-py2.7.egg-info&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can read more about this &lt;a href=&#34;https://github.com/pypa/pip/issues/3165&#34;&gt;issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To fix this you can use virtualenv or simply install Python using brew:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+brew install python
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And then:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+sudo pip install scrapy
+&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>helo</title>
