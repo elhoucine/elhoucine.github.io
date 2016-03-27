@@ -1,7 +1,7 @@
 +++
 date = "2016-03-19T11:32:54Z"
 draft = false
-title = "helo"
+title = "hello"
 heading = "Hello world!"
 +++
 
