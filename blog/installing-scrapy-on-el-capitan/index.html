@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Don&#39;t panic, elhoucine Azayou&#39;s official virtual mind.">
+
+<base href="https://elhoucine.github.io/">
+<title>
+
+
+     Installing scrapy on El Capitan 
+
+</title>
+<link rel="canonical" href="https://elhoucine.github.io/blog/installing-scrapy-on-el-capitan/">
+
+
+<script type="text/javascript">
+    var baseURL = 'https:\/\/elhoucine.github.io\/';
+    var host = baseURL.substring(0, baseURL.length - 1).replace(/\//g, '');
+    if ((host === window.location.host) && (window.location.protocol !== 'https:')) {
+        window.location.protocol = 'https:';
+    }
+</script>
+
+
+
+
+
+<link rel="stylesheet" href="https://elhoucine.github.io/css/reset.css">
+<link rel="stylesheet" href="https://elhoucine.github.io/css/pygments.css">
+<link rel="stylesheet" href="https://elhoucine.github.io/css/main.css">
+
+
+    <link rel="stylesheet" href="https://elhoucine.github.io/css/override.css">
+
+
+
+
+
+<link rel="shortcut icon"
+
+    href="https://elhoucine.github.io/img/leaf.ico"
+
+>
+
+
+
+</head>
+
+
+<body lang="en">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            <img style="max-width:100px; border-radius:10%;" src="https://avatars0.githubusercontent.com/u/5818473?v=3&s=460">
+            <a href="https://elhoucine.github.io/"><div class="name">Elhoucine Azayou</div></a>
+            <nav>
+                <ul>
+                    <a href="https://elhoucine.github.io/blog/"><li>Blog</li></a>
+                    <a href="https://elhoucine.github.io/about/"><li>About</li></a>
+                    <a href="https://elhoucine.github.io/now/"><li>Now</li></a>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        
+            <a href="//github.com/elhoucine" target="_blank">
+                <i class="icon ion-social-github"></i>
+            </a>
+        
+
+        
+            <a href="//twitter.com/elhoucineaz" target="_blank">
+                <i class="icon ion-social-twitter"></i>
+            </a>
+        
+
+        
+
+        
+
+        
+
+        
+            <a href="mailto:houcineparade@gmail.com">
+                <i class="icon ion-ios-email larger"></i>
+            </a>
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    Installing scrapy on El Capitan
+
+</div>
+
+                    <div class="initials"><a href="https://elhoucine.github.io/">ad</a></div>
+                </div>
+                <div class="meta">
+                    <div class="date" title="Sun Mar 27 27036 19:19:31 WEST">Mar 27, 27036</div>
+                    <div class="reading-time"><div class="middot"></div>1 minute read</div>
+                </div>
+            </div>
+            <div class="markdown">
+                <p>If you are trying to install Scrapy <em>globally</em> via pip on El Capitan, you may go through some trouble related to <a href="https://pypi.python.org/pypi/six">six</a>.</p>
+
+<pre><code>OSError: [Errno 1] Operation not permitted: '/var/folders/2r/m12cht2j3332gy6tlqd66xmw0000gn/T/pip-tAYZND-uninstall/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six-1.4.1-py2.7.egg-info'
+</code></pre>
+
+<p>You can read more about this <a href="https://github.com/pypa/pip/issues/3165">issue</a>.</p>
+
+<p>To fix this you can use virtualenv or simply install Python using brew:</p>
+
+<p><code>
+brew install python
+</code></p>
+
+<p>And then:</p>
+
+<p><code>
+sudo pip install scrapy
+</code></p>
+
+                <br>
+                <p><a href="https://elhoucine.github.io/blog/">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'elhoucine';
+    var disqus_identifier = 'https:\/\/elhoucine.github.io\/blog\/installing-scrapy-on-el-capitan\/';
+    var disqus_title = 'Installing scrapy on El Capitan';
+    var disqus_url = 'https:\/\/elhoucine.github.io\/blog\/installing-scrapy-on-el-capitan\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+</body>
+</html>
+
