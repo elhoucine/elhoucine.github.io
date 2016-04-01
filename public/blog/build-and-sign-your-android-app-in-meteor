@@ -5,3 +5,22 @@ title = "build and sign your android app in meteor"
 
 +++
 
+## Build:
+
+```
+ meteor build ~/dev/smile-app-build3 --server=http://smile-develop.platform.smilerealestate.com.au/ --mobile-settings settings.json
+```
+
+
+## Sign:
+
+```
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 release-unsigned.apk smile2 -keystore smile.keystore
+```
+
+
+## Compress:
+
+```
+~/Library/Android/sdk/build-tools/23.0.3/zipalign 4 release-unsigned.apk alpha-1.apk
+```
