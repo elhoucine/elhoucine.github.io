@@ -8,9 +8,13 @@ title = "build and sign your android app in meteor"
 ## Build:
 
 ```
- meteor build ~/dev/smile-app-build3 --server=http://smile-develop.platform.smilerealestate.com.au/ --mobile-settings settings.json
+meteor build ~/dev/smile-app-build3 --server=http://smile-develop.platform.smilerealestate.com.au/ --mobile-settings settings.json
 ```
 
+## Generate sign key:
+```
+keytool -genkey -alias smile2 -keyalg RSA -keysize 2048 -validity 10000
+```
 
 ## Sign:
 
