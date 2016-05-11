@@ -12,7 +12,7 @@ But, was that my motivation to write it ? Definitely Not!
 In the completing your profile section, I got asked if I want a 'Priority Access' then I have to write a blog post on my website explaining
 why I am committed in joining Toptal, I skipped it right away, because it simply didn't motivate me.
 
-After skipping it, I asked my self, seriously, why I am admitted in joining Toptal anyway ? And hell, yeah! the desire to answer this question, and write a blog post about it comes suddenly!
+After skipping it, I asked my self, seriously, why I am admitted in joining the Toptal Web Developers Network anyway ?  And hell, yeah! the desire to answer this question, and write a blog post about it comes suddenly!
 
 And here is the answer to that why, summed in 3 points.
 
