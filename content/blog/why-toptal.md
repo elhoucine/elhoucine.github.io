@@ -5,7 +5,7 @@ title = "Why I am committed in joining Toptal ?"
 
 +++
 
-If you search on Google you will find similar posts with the same title as this post's one. Because writing a blogpost about it helps you speed up the process and get 'Priority Access' to the Toptal platform.
+If you search on Google you will find similar posts with the same title as this post. Because writing a blogpost about it helps you speed up the process and get 'Priority Access' to the Toptal platform.
 
 But, was that my motivation to write it ? Definitely Not!
 
