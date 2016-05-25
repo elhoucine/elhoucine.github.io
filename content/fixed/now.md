@@ -14,14 +14,12 @@ Hello, I am in Casablanca, here is a some of the things I am currently busy with
 ___
 
 
-I am reading [ESSENTIALISM](https://www.youtube.com/watch?v=T9x6D09AKBU) by Greg McKeown.
+I am reading some books around Business, Startups, and Social psychology..
 
-<!-- Learning React Native, trough this [project](https://github.com/elhoucine/PropertyFinder). -->
-
-<!-- JavaScripting @ [Hearken](http://hearken.io). -->
+Writing JavaScript.
 
 ___
 
-*last update: 22/03/2016*
+*last update: 25/03/2016*
 
 Now page inspired by [Derek Sivers idea](http://sivers.org/nowff).
