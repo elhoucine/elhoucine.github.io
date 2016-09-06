@@ -8,7 +8,7 @@ publishdir = "public"
 author = "Elhoucine Azayou"
 title = "Elhoucine Azayou offcial website"
 pygmentsuseclasses = true
-disqusShortname = "elhoucine" # TODO: optional, comment out to disable Disqus
+#disqusShortname = "elhoucine" # TODO: optional, comment out to disable Disqus
 pluralizelisttitles = false
 theme = "cocoa"
 
