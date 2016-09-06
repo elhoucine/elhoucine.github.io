@@ -1,7 +1,7 @@
 +++
 date = "2016-09-06T11:49:36+01:00"
 draft = false
-title = "is what we do matters ?"
+title = "Is what we do matters ?"
 
 +++
 
