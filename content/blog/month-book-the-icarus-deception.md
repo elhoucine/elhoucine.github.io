@@ -10,7 +10,7 @@ Book by Seth Godin
 
 ![The Icarus Deception: How High Will You Fly?](http://t1.gstatic.com/images?q=tbn:ANd9GcTNW3STRX26TWTpainrWHiplcngpFc1Uqxoqty6pFKXA9QJMi0x)
 
-First this book calls you inner creative person, and it is trying to woke up the sleeping artist inside of you.
+First, this book calls your inner creative person, and it is trying to wake up the sleeping artist inside of you.
 
 We are brainwashed by industrialism to playing it safe, not taking risks, and not flying too high, follow your boss instructions and shut down you inner voice. The book is about the other way, the ART way, it will challenge you in ways that may surprise you.
 
