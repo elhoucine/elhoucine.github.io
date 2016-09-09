@@ -150,6 +150,81 @@ sudo pip install scrapy
     </item>
     
     <item>
+      <title>docker birthday 3</title>
+      <link>https://elhoucine.github.io/blog/docker-birthday-3/</link>
+      <pubDate>Wed, 23 Mar 2016 20:46:03 +0000</pubDate>
+      
+      <guid>https://elhoucine.github.io/blog/docker-birthday-3/</guid>
+      <description>
+
+&lt;p&gt;Hello It&amp;rsquo;s Docker&amp;rsquo;s year 3 :D, celebrations everywhere.&lt;/p&gt;
+
+&lt;p&gt;We @ Casablanca, had a Docker session by @SamuelTerburg.&lt;/p&gt;
+
+&lt;p&gt;Special thanks to him, and to the guys behind the event.
+&lt;!-- Docker project &amp; Docker Inc(Business --&gt;
+&lt;!-- dockerCon16 --&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;quick-notes:854321d5d5ad3284819c6b04d6c573a6&#34;&gt;Quick notes.&lt;/h1&gt;
+
+&lt;h2 id=&#34;docker-component:854321d5d5ad3284819c6b04d6c573a6&#34;&gt;Docker Component:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Docker Image should contains all dependencies.&lt;/li&gt;
+&lt;li&gt;Docker container =&amp;gt; secure, (Bundle the Docker image)&lt;/li&gt;
+&lt;li&gt;Docker Engine run the Docker container.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;docker-services:854321d5d5ad3284819c6b04d6c573a6&#34;&gt;Docker services:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Docker Swarm: Orchestrator to manage Docker container in a cluster.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;docker-power:854321d5d5ad3284819c6b04d6c573a6&#34;&gt;Docker power:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Isolation.&lt;/li&gt;
+&lt;li&gt;Dependencies.&lt;/li&gt;
+&lt;li&gt;Security&lt;/li&gt;
+&lt;li&gt;Speed.&lt;/li&gt;
+&lt;li&gt;Portability.&lt;/li&gt;
+&lt;li&gt;Performance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- Docker data center VS Docker Cloud. --&gt;
+
+&lt;!-- Docker alpine : Base docker image with basic system requirement. (5mb) --&gt;
+
+&lt;h3 id=&#34;docker-commands:854321d5d5ad3284819c6b04d6c573a6&#34;&gt;Docker commands:&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;docker images&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker ps&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker run image_name&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker run alpine sh&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker run -d alpine sh  #run the container as a daemon&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker ps -a  #List docker images&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker log sharp_banach&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker stop image_name&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker run -R image_name&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;docker run --name static-site-2 -e AUTHOR=&amp;quot;Elhoucine&amp;quot; -d -p 8888:80 seqvence/static-site&lt;/code&gt;&lt;/p&gt;
+
+&lt;!-- http://192.168.99.100:5000/ --&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/docker/docker-birthday-3/blob/master/tutorial.md#static-site&#34;&gt;TUTORIAL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>hello</title>
       <link>https://elhoucine.github.io/blog/hello/</link>
       <pubDate>Sat, 19 Mar 2016 11:32:54 +0000</pubDate>

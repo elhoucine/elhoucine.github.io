@@ -2,20 +2,22 @@
 
 date = "2016-03-23T20:46:03Z"
 
-draft = true
+draft = false
 
 title = "docker birthday 3"
 
 +++
 
-Docker
-==
 
 Hello It's Docker's year 3 :D, celebrations everywhere.
 
 We @ Casablanca, had a Docker session by @SamuelTerburg.
+
+Special thanks to him, and to the guys behind the event.
 <!-- Docker project & Docker Inc(Business -->
 <!-- dockerCon16 -->
+
+# Quick notes.
 
 ## Docker Component:
 
@@ -35,9 +37,9 @@ We @ Casablanca, had a Docker session by @SamuelTerburg.
 * Portability.
 * Performance.
 
-Docker data center VS Docker Cloud.
+<!-- Docker data center VS Docker Cloud. -->
 
-Docker alpine : Base docker image with basic system requirement. (5mb)
+<!-- Docker alpine : Base docker image with basic system requirement. (5mb) -->
 
 ### Docker commands:
 
