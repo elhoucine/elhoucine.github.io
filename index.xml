@@ -10,11 +10,11 @@
     <atom:link href="https://elhoucine.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Book of the month: The Icarus Deception: How High Will You Fly?</title>
-      <link>https://elhoucine.github.io/blog/book-of-the-month-the-icarus-deception-how-high-will-you-fly/</link>
+      <title>Books: The Icarus Deception: How High Will You Fly?</title>
+      <link>https://elhoucine.github.io/blog/books-the-icarus-deception-how-high-will-you-fly/</link>
       <pubDate>Wed, 07 Sep 2016 00:34:50 +0100</pubDate>
       
-      <guid>https://elhoucine.github.io/blog/book-of-the-month-the-icarus-deception-how-high-will-you-fly/</guid>
+      <guid>https://elhoucine.github.io/blog/books-the-icarus-deception-how-high-will-you-fly/</guid>
       <description>&lt;p&gt;The book I read last month (august 2016) was The Icarus Deception: How High Will You Fly?
 Book by Seth Godin&lt;/p&gt;
 
@@ -247,14 +247,18 @@ sudo pip install scrapy
     </item>
     
     <item>
-      <title>hello</title>
+      <title>Hello</title>
       <link>https://elhoucine.github.io/blog/hello/</link>
       <pubDate>Sat, 19 Mar 2016 11:32:54 +0000</pubDate>
       
       <guid>https://elhoucine.github.io/blog/hello/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;[updated: 09/09/2016]&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a dummy blog post, Just in case you visit :)&lt;/p&gt;
+&lt;p&gt;Hello World!&lt;/p&gt;
+
+&lt;p&gt;This is my personal blog AKA my virtual mind. Be careful while reading, some ideas may blow your mind. If that is okay with you, welcome to the club ;)&lt;/p&gt;
+
+&lt;p&gt;If you want to comment or just to say hello, feel free to contact me via twitter or drop me an email.&lt;/p&gt;
 </description>
     </item>
     
@@ -268,7 +272,7 @@ sudo pip install scrapy
 
 &lt;h3 id=&#34;hello:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Hello!&lt;/h3&gt;
 
-&lt;p&gt;My name is Elhoucine, JavaScript developer, swimmer and passionate about music, video producing, and more..&lt;/p&gt;
+&lt;p&gt;My name is Elhoucine, JavaScript developer, swimmer, artist, passionate about music, video producing, and more..&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/elhoucineaz&#34;&gt;@elhoucineaz&lt;/a&gt;&lt;/p&gt;
 </description>
