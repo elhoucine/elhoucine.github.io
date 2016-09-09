@@ -12,6 +12,10 @@ pygmentsuseclasses = true
 pluralizelisttitles = false
 theme = "cocoa"
 
+# Enable Emoji emoticons support for page content.
+# See www.emoji-cheat-sheet.com
+enableEmoji = false
+
 [permalinks]
 fixed = ":title/"
 blog = "blog/:slug/"
@@ -19,8 +23,8 @@ blog = "blog/:slug/"
 [params]
 Author = "Elhoucine Azayou"
 CacheBuster = true
-DateForm = "Jan 2, 2016"
-DateFormFull = "Mon Jan 2 2016 15:04:05 MST"
+DateForm = "Jan 02, 2006"
+DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
 Description = "Don't panic, elhoucine Azayou's official virtual mind."
 Email = "houcineparade@gmail.com"
 FaviconFile = "img/leaf.ico"
