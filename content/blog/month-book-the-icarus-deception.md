@@ -1,7 +1,7 @@
 +++
 date = "2016-09-07T00:34:50+01:00"
 draft = false
-title = "Book of the month: The Icarus Deception: How High Will You Fly?"
+title = "Books: The Icarus Deception: How High Will You Fly?"
 
 +++
 

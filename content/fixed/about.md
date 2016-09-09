@@ -11,6 +11,6 @@ title = "about"
 
 ### Hello!
 
-My name is Elhoucine, JavaScript developer, swimmer and passionate about music, video producing, and more..
+My name is Elhoucine, JavaScript developer, swimmer, artist, passionate about music, video producing, and more..
 
 [@elhoucineaz](https://twitter.com/elhoucineaz)
