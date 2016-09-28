@@ -1,6 +1,6 @@
 +++
 date = "2016-09-28T09:43:49+01:00"
-draft = true
+draft = false
 title = "I ashamed of"
 
 +++
@@ -12,13 +12,13 @@ Albert Einstein
 
 ---
 
-We become obsessed with appearances, at a level that we may judge people by what they wear, worst, treat them depending on that, even worst, doing it with our selves as well.
+We become obsessed with appearances, that we may judge people by what they wear, worst, treat them depending on it, even worst, doing it with our selves as well.
 
 And yet we don't question the quality of the ideas we are feeding to our selves, as that this matter doesn't matter.
 
 ![look inside](http://bashooka.com/wp-content/uploads/2012/05/conceptual-photography-bshk-10.jpg)
 
-As shabby clothes, shabby ideas exist too, `You can't do it`, `Your dreams are impossible`, `You should wear a suit to look serious`, `It is too late to do it`, `You are a failure`... Why aren't we ashamed of these as well?
+As shabby clothes, shabby ideas exist too, `I can't do it`, `I should wear a suit to look serious`, `It is too late to do it`, `I am a failure`, `racism`, `Préjugés`... Why aren't we ashamed of these as well?
 
 I think this comes from 3 things:
 
@@ -36,4 +36,4 @@ Einstein was one of them, and yet after fifty years of his death, his name is co
 
 I am ashamed of shabby ideas and shoddy philosophies.
 
-`Look in the inside`.
+`Look at the inside`.
