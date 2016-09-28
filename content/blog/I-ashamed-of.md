@@ -31,8 +31,8 @@ With `mono confidence` I mean to be confident in doing what others don't expect 
 ---
 
 Many of the successful people through history were `minimalists` they preferred living a simple life, they refused to be trapped by
-society's expectations, they saw the word differently, they do the things that no one does, and that was the key part why they are great.
-Einstein was one of them, and yet after fifty years of his death, his name is continuingly appearing everywhere, thanks to his quotes, books, ideas, philosophies... Not to his clothes.
+society's expectations, they saw the word differently, they do the things that no one does, and that was the key to their greatness.
+Einstein was one of them, and yet after sixty years of his death, his name is continuingly appearing everywhere, thanks to his quotes, books, ideas, philosophies... Not to his clothes.
 
 I am ashamed of shabby ideas and shoddy philosophies.
 
