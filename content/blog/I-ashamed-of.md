@@ -22,9 +22,9 @@ As shabby clothes, shabby ideas exist too, `I can't do it`, `I should wear a sui
 
 I think this comes from 3 things:
 
-- `society’s expectations`
+- `Obey society’s expectations`
 - `Conformity`
-- `lack of mono confidence`.
+- `Lack of mono confidence`.
 
 With `mono confidence` I mean to be confident in doing what others don't expect you to do, to upset them with your doings, meaning instead of being embarrassed by doing what they are not expecting you to do, you upset them by doing it, while being totally comfortable. In other words, to believe in and follow your dreams.
 
