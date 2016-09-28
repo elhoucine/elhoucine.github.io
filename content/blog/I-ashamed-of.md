@@ -1,7 +1,7 @@
 +++
 date = "2016-09-28T09:43:49+01:00"
 draft = false
-title = "I ashamed of"
+title = "I am ashamed of"
 
 +++
 
