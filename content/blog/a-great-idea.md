@@ -12,15 +12,15 @@ title = "A great idea"
 * Where to look for it?
 * How to test it?
 
-II never had the chance -yet- to found a great idea, I decided maybe writing about it could be a good start.
+II never had the chance -yet- to find a great idea, I decided maybe writing about it could be a good start.
 
-before it looks unpromising, but after execution people love it, it becomes an everyday life thing! That was my definition of the great idea.
+before, it looked unpromising, but after execution people loves it, it becomes an everyday life thing! That was my definition of the great idea.
 
 Ideas are worthless if they are worth something a big market would be around. That’s a maybe-true-perspective. But what if it’s not? Then a market for ideas turns out to be great, there is a high hidden demand, which explains why great ideas are hard to see.
 
 >“If at first, the idea is not absurd, then there is no hope for it.” ― Albert Einstein
 
-The hardest part about great ideas is to know them. A sure path is to look for existing successful ones and see how they were perceived at the beginning. Most of them seem normal now, but at the beginning, they were almost weird, crazy, or impossible. So maybe absurdity is a sign.
+See how existing successful ideas were perceived at the beginning, they were almost weird, crazy, or impossible.
 
 >Great ideas are great because they are outside the fashion, they demand more effort, different thinking and sometimes dreaming.
 
