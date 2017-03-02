@@ -1,6 +1,6 @@
 +++
 date = "2017-03-01T13:13:43Z"
-draft = true
+draft = false
 title = "The art of building a product"
 
 +++
